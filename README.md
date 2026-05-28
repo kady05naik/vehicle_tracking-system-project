@@ -1,6 +1,6 @@
 # Vehicle Tracking System Project
 
-The aim of this project is to understanding **Unity Catalog** in Databricks.  
+The aim of this project is understanding **Unity Catalog** in Databricks.  
 
 Following Azure Data Engineering Tools are used for this Project:
 1. Azure Data Lake Storage Gen2 
